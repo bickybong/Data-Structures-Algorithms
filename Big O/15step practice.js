@@ -11,9 +11,9 @@
 // not sorted arrays
 // inputs 2 arrays
 // output is true or false
-// nested loop but O(m*n) time O(1)
+// nested loop but O(m*n) time O(1) space
 
-// hashmaps O(m+n) time O(m)
+// hashmaps O(m+n) time O(m) space
 
 
 const array1 = ['a', 'b', 'c', 'x'];

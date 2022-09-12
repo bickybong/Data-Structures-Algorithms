@@ -6,3 +6,5 @@ boxes.forEach(box1 => {
         console.log([box1, box2])
     })
 });
+
+// O(n^2) 

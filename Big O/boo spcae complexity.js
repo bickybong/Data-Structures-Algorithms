@@ -18,3 +18,5 @@ function createArray(n) {
 }
 
 createArray(9);
+
+// O(n) space 
