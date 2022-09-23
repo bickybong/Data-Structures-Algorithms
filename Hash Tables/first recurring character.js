@@ -28,7 +28,7 @@ function firstRecurringCharacter(input) {
     return undefined
 }
 
-// O(n) time O(n) space 
+// O(n) time but O(n) space 
 
 function firstRecurringCharacter2(input) {
     let map = {};
